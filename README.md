@@ -2,11 +2,14 @@
 
 ###
 
-<h2 align="left">🤔 Fun Fact About Me :</h2>
-- 🚀 Learn programming since 2020 <br>
-- 🌱 I’m currently learning Next, Laravel & Golang<br>
-- 🎓 Fresh Graduate at university "Surabaya State University" (Indonesia) <br>
-
+<div align="left">
+    <h2>🤔 Fun Fact About Me :</h2>
+    <ul>
+        <li>🚀 Learn programming since 2020 </li>
+        <li> 🌱 I’m currently learning Next, Laravel & Golang</li>
+        <li> 🎓 Fresh Graduate at university "Surabaya State University" (Indonesia)</li>
+    </ul>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeanSanjaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeanSanjaya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&custom_title=My%20Most%20Used%20Language" height="150" alt="languages graph"  />
