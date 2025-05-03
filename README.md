@@ -1,6 +1,12 @@
 <h1 align="center">Hi World👋! I'm Dean Sanjaya</h1>
 
 ###
+<h2 align="left">🤔 Fun Fact About Me :</h2>
+- 🚀 Learn programming since 2020
+- 🌱 I’m currently learning Next, Laravel & Golang
+- 🎓 Fresh Graduate at university "Surabaya State University" (Indonesia)
+---
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeanSanjaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
