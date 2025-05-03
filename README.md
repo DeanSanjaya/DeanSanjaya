@@ -2,10 +2,10 @@
 
 ###
 <h2 align="left">🤔 Fun Fact About Me :</h2>
-- 🚀 Learn programming since 2020
-- 🌱 I’m currently learning Next, Laravel & Golang
+- 🚀 Learn programming since 2020 <br>
+- 🌱 I’m currently learning Next, Laravel & Golang<br>
 - 🎓 Fresh Graduate at university "Surabaya State University" (Indonesia)
----
+
 
 
 <div align="center">
